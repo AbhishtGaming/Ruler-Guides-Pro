@@ -9,13 +9,24 @@
 ---
 
 ## 📸 Screenshots
-*(Developer Note: Upload your screenshots to your repository, name them `ruler_screenshot1.png`, etc., and place them in the `assets/` folder)*
+*(Developer Note: Upload your 8 screenshots, name them `ruler_screenshot1.png` through `ruler_screenshot8.png`, and place them in the `assets/` folder)*
 
-![Main Interface](assets/ruler_screenshot1.png)
-*Beautiful, distraction-free modern dark-mode control panel.*
-
-![Guides in Action](assets/ruler_screenshot2.png)
-*Pixel-perfect overlay working on top of Visual Studio Code & Web Browsers.*
+<p align="center">
+  <img src="assets/ruler_screenshot1.png" width="48%" />
+  <img src="assets/ruler_screenshot2.png" width="48%" />
+</p>
+<p align="center">
+  <img src="assets/ruler_screenshot3.png" width="48%" />
+  <img src="assets/ruler_screenshot4.png" width="48%" />
+</p>
+<p align="center">
+  <img src="assets/ruler_screenshot5.png" width="48%" />
+  <img src="assets/ruler_screenshot6.png" width="48%" />
+</p>
+<p align="center">
+  <img src="assets/ruler_screenshot7.png" width="48%" />
+  <img src="assets/ruler_screenshot8.png" width="48%" />
+</p>
 
 ---
 
