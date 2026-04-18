@@ -9,7 +9,6 @@
 ---
 
 ## 📸 Screenshots
-*(Developer Note: Upload your 8 screenshots, name them `ruler_screenshot1.png` through `ruler_screenshot8.png`, and place them in the `assets/` folder)*
 
 <p align="center">
   <img src="assets/ruler_screenshot1.png" width="48%" />
@@ -44,7 +43,7 @@
 
 | Shortcut | Action |
 | :--- | :--- |
-| **`Ctrl` + `i`** | Toggle Rulers Visibility |
+| **`Ctrl` + `I`** | Toggle Rulers Visibility |
 | **`Ctrl` + `Shift` + `G`** | Toggle Guides Visibility |
 | **`Ctrl` + `Shift` + `T`** | Toggle Click-Through Mode |
 | **`Ctrl` + `Shift` + `C`** | Clear all active guides |
