@@ -33,7 +33,7 @@
 
 | Shortcut | Action |
 | :--- | :--- |
-| **`Ctrl` + `Shift` + `R`** | Toggle Rulers Visibility |
+| **`Ctrl` + `i`** | Toggle Rulers Visibility |
 | **`Ctrl` + `Shift` + `G`** | Toggle Guides Visibility |
 | **`Ctrl` + `Shift` + `T`** | Toggle Click-Through Mode |
 | **`Ctrl` + `Shift` + `C`** | Clear all active guides |
